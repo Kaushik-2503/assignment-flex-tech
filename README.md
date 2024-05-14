@@ -1,13 +1,5 @@
 
 
-Skip to content
-Using Gmail with screen readers
-Conversations
-0.22 GB of 15 GB used
-Terms · Privacy · Programme Policies
-Last account activity: 1 minute ago
-Currently being used in 2 other locations · Details
-### README.md
 
 # Spring Boot and Nginx Deployment
 
